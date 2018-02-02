@@ -1,8 +1,7 @@
 /*
 *Java Level 3, Lesson 1
 *@author Aleksey Antonov
-*@link
-*
+*@link https://github.com/ki11qwerty
  */
 import java.util.ArrayList;
 
@@ -29,6 +28,7 @@ public class HomeWork {
 
     }
 }
+
 class WorkWithArray<T> {
     T[] arr;
 
@@ -52,6 +52,7 @@ class WorkWithArray<T> {
         }
         return arr;
     }
+
     public void justPrintArr(){
         int leng = this.arr.length;
         for(int i=0;i<leng;i++){
