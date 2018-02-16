@@ -1,10 +1,3 @@
-/**
- * Java. Level 2. Lesson 8
- * CRUD — Create, Read, Update, Delete
- *
- * @author Sergey Iryupin
- * @version 0.2 dated Jan 19, 2018
- */
 import java.util.*;
 import java.sql.*;
 

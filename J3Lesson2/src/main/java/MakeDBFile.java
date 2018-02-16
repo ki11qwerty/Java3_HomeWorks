@@ -6,9 +6,6 @@
  *    https://bitbucket.org/xerial/sqlite-jdbc/downloads
  * b) Put this jar into [JDK]\jre\lib\ext
  * c) See also http://www.tutorialspoint.com/sqlite/sqlite_java.htm
- *
- * @author Sergey Iryupin
- * @version 0.3 dated Jan 16, 2018
  */
 import java.sql.*;
 
