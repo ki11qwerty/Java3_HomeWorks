@@ -2,7 +2,6 @@
  *Java Level 3, Lesson 5
  *@author Aleksey Antonov
  *@link https://github.com/ki11qwerty
- *
  */
 import java.util.ArrayList;
 import java.util.Arrays;
